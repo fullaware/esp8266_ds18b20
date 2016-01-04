@@ -12,8 +12,8 @@ OneWire  ds(14);
 const char* ssid = "....";
 const char* password = "password";
 
-IPAddress ip(10,3,3,230);  // static IP so save power on boot
-IPAddress gateway(10,3,3,254);
+IPAddress ip(192,168,1,230);  // static IP so save power on boot
+IPAddress gateway(192,168,1,1);
 IPAddress subnet(255,255,255,0);
 
 // Create an instance of the server
