@@ -3,6 +3,9 @@ This arduino code uses standard example libraries included with the ESP8266 boar
 
     {"temp":68.56}
 
+The sensor I am using came from Amazon and are the external probes.  I chose these due to my desire to measure outdoor temperature and these are weather proof (Vktech DS18b20 Waterproof Temperature Sensors Temperature Transmitter):  
+http://amzn.com/B00CHEZ250
+
 Thanks to Adafruit for developing this great breakout board for the ESP8266:  
 https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/overview
 
