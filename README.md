@@ -11,3 +11,5 @@ https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/overview
 
 Thanks to Fritzing and the community for the wiring diagram!  
 http://fritzing.org/projects/adafruit-huzzah-esp8266-breakout-and-ds18b20
+
+![](https://github.com/fullaware/esp8266_ds18b20/blob/master/breadboard.jpg)
